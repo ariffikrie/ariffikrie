@@ -1,7 +1,6 @@
 # 💫 About Me:
 4th-Year Undergrad at Kitami Institute of Technology. <br>
-I'm working on machine learning and transformer model related research. Focusing mostly on topics like commonsense causal reasoning and sentiment analysis. Currently learning some backend stuff such as no-sql database and scaling database. 
-In future, would love to learn and pursue some knowledge on web developement.  
+I'm working on machine learning and transformer model related research. Focusing mostly on topics like commonsense causal reasoning and sentiment analysis. Currently learning some backend stuff such as no-sql database, scaling database and some web developement related stuff.  
 
 
 # 💻 Tech Stack:
